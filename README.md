@@ -21,6 +21,7 @@
 
 <img align="left" alt="Java" width="26px" src="https://www.creamidesign.com/wp-content/uploads/2019/09/JAVA-ICON.png">
 <img align="left" alt="Python" width="26px" src="https://i.imgur.com/dmmgdDh.png">
+<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png">
 
 <br />
 <br />
