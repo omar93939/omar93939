@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SweatIRL?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=SweatIRL)
 
-## I'm a Student currently studying for my Computer Engineering bachelor at the University of Twente!
+## I'm a Student of the Computer Engineering bachelor's programme at the University of Twente!
 
 # About me:
 
