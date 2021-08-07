@@ -22,9 +22,9 @@
 <img align="left" alt="Java" width="26px" src="https://www.creamidesign.com/wp-content/uploads/2019/09/JAVA-ICON.png">
 <img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png">
 <img align="left" alt="Python" width="26px" src="https://i.imgur.com/dmmgdDh.png">
+<img align="left" alt="Terminal" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 <img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/terminal/terminal.png">
-<img align="left" alt="Terminal" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 
 <br />
 <br />
