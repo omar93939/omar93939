@@ -24,7 +24,7 @@
 <img align="left" alt="Python" width="26px" src="https://i.imgur.com/dmmgdDh.png">
 <img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/terminal/terminal.png">
-<img align="left" alt="Terminal" width="26px" src="https://i.imgur.com/nzKbc7J.png">
+<img align="left" alt="Terminal" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 
 <br />
 <br />
