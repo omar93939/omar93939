@@ -1,7 +1,5 @@
 ### Hi there, I'm Omar - aka SweatIRL or omar93939 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SweatIRL?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=SweatIRL)
-
 ## Student following the University of Twente's Computer Engineering bachelor's program!
 
 # About me:
