@@ -4,7 +4,18 @@
 
 ## I'm a Student currently studying for my Computer Engineering bachelor at the University of Twente!
 
-- 👯 I’m looking to be employed!
+# About me:
+
+In summer 2020, I graduated high school with a full IB (International Baccalaureate) Diploma primarily focused around the sciences (Higher Level Mathematics, Higher Level Biology, and Higher Level Chemistry).
+The sciences have always been of interest to me as they help promote the logical thinking I have enjoyed throughout my life.
+
+Furthermore, I have always been the kid whom other students approached about any issues with their phones, laptops, and even other handheld or desktop devices.
+
+So in my eyes, there was no better way to combine these two ideas (my knack for logical thinking and my history of technical expertise) than to enter a Computer Engineering programme, and this is exactly what I have done.
+
+I am about to enter the second year of my bachelor's programme Technical Computer Science at the University of Twente and through my experience, it appears that I still have a large amount of time on my hands after completing all of my coursework.
+I am therefore more eager than ever to secure roles that demand use of the skills gained during my past year with the University of Twente, as well as the more extensive skills and experience I have gained during my self-studies in the same area of expertise.
+
 - 🥅 2020 Goals: Work on some of my own projects, Contribute more to Open Source projects and Get Employed!
 - ⚡ Fun fact: I love to game (my peak elo in the popular moba League Of Legends is Diamond 2 and was hit in 2019!)
 
