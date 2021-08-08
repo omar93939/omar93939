@@ -41,14 +41,6 @@ I am therefore more eager than ever to secure roles that demand use of the skill
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="omar93939's GitHub Stats" src="https://github.com/omar93939/github-stats/blob/master/generated/overview.svg" />
