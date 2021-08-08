@@ -1,6 +1,6 @@
 ### Hi there, I'm Omar - aka SweatIRL or omar93939 👋
 
-## Student following the University of Twente's Computer Engineering bachelor's program!
+## Student following the a Computer Engineering bachelor's programme!
 
 # About me:
 
@@ -11,8 +11,8 @@ Furthermore, I have always been the kid whom other students approached about any
 
 So in my eyes, there was no better way to combine these two ideas (my knack for logical thinking and my history of technical expertise) than to enter a Computer Engineering programme, and this is exactly what I have done.
 
-I am about to enter the second year of my bachelor's programme Technical Computer Science at the University of Twente and through my experience, it appears that I still have a large amount of time on my hands after completing all of my coursework.
-I am therefore more eager than ever to secure roles that demand use of the skills gained during my past year with the University of Twente, as well as the more extensive skills and experience I have gained during my self-studies in the same area of expertise.
+I am about to enter the second year of my bachelor's programme Technical Computer Science and through my experience, it appears that I still have a large amount of time on my hands after completing all of my coursework.
+I am therefore more eager than ever to secure roles that demand use of the skills gained during my past year with my university, as well as the more extensive skills and experience I have gained during my self-studies in the same area of expertise.
 
 - 🥅 2020 Goals: Work on some of my own projects, Contribute more to Open Source projects and Get Employed!
 - ⚡ Fun fact: I love to game (my peak elo in the popular moba League Of Legends is Diamond 2 and was hit in 2019!)
