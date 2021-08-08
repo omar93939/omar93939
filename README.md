@@ -36,7 +36,6 @@ I am therefore more eager than ever to secure roles that demand use of the skill
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/terminal/terminal.png">
 
 <br />
-<br />
 
 ---
 
