@@ -40,20 +40,6 @@ I am therefore more eager than ever to secure roles that demand use of the skill
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [⭐ BONUS: STACKr News Shorts - Add Authentication to Next.js](https://www.youtube.com/watch?v=H37-PgkpBO0)
-- [VS Code Has Dev Tools & Console!! No Need For Chrome Anymore 👋](https://www.youtube.com/watch?v=vHZPeohPHqo)
-- [⭐ BONUS: STACKr News Shorts - BYE BYE VS CODE ??](https://www.youtube.com/watch?v=r2ha0n2s3wE)
-- [⭐ BONUS: STACKr News Shorts - 5 Things Better in Svelte than React](https://www.youtube.com/watch?v=I-8aVr7vnlA)
-- [Bootcamp Graduate Advice 💪, Who's the CSS King? 👑, GitHub Copilot 🤖 // STACKr News Weekly - Issue 5](https://www.youtube.com/watch?v=F6KzVOrhEXw)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -65,7 +51,7 @@ I am therefore more eager than ever to secure roles that demand use of the skill
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=omar93939&show_icons=true&hide_border=true" />
+  <img align="left" alt="omar93939's GitHub Stats" src="https://github.com/omar93939/github-stats/blob/master/generated/overview.svg" />
 
 </details>
 
