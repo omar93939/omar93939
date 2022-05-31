@@ -15,7 +15,7 @@ I am about to enter the second year of my bachelor's programme Technical Compute
 I am therefore more eager than ever to secure roles that demand use of the skills gained during my past year with my university, as well as the more extensive skills and experience I have gained during my self-studies in the same area of expertise.
 
 - 🥅 2021 Goals: Work on some of my own projects, Contribute more to Open Source projects and Get Employed!
-- ⚡ Fun fact: I love to game (my peak elo in the popular moba League Of Legends is Diamond 2 and was hit in 2019!)
+- ⚡ Fun fact: I love to game (my peak elo in the popular moba League Of Legends is Diamond 1 and was hit in 2022!)
 
 ### Connect with me:
 
