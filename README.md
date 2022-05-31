@@ -1,6 +1,6 @@
 ### Hi there, I'm Omar - aka SweatIRL or omar93939 👋
 
-## Student following the a Computer Engineering bachelor's programme!
+## Student following a Computer Engineering bachelor's programme!
 
 # About me:
 
