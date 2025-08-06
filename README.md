@@ -14,8 +14,7 @@ So in my eyes, there was no better way to combine these two ideas (my knack for 
 I am about to enter the second year of my bachelor's programme Technical Computer Science and through my experience, it appears that I still have a large amount of time on my hands after completing all of my coursework.
 I am therefore more eager than ever to secure roles that demand use of the skills gained during my past year with my university, as well as the more extensive skills and experience I have gained during my self-studies in the same area of expertise.
 
-- 🥅 2021 Goals: Work on some of my own projects, Contribute more to Open Source projects and Get Employed!
-- ⚡ Fun fact: I love to game (my peak elo in the popular moba League Of Legends is Masters ~300LP and was hit in 2023!)
+- ⚡ Fun fact: I love to game (my peak elo in the popular moba League Of Legends is Challenger ~800LP and was hit in 2024!)
 
 ### Connect with me:
 
@@ -28,12 +27,16 @@ I am therefore more eager than ever to secure roles that demand use of the skill
 
 ### Languages and Tools:
 
-<img align="left" alt="Java" width="26px" src="https://www.creamidesign.com/wp-content/uploads/2019/09/JAVA-ICON.png">
-<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png">
-<img align="left" alt="Python" width="26px" src="https://i.imgur.com/dmmgdDh.png">
-<img align="left" alt="Terminal" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
-<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/terminal/terminal.png">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript"></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C"></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js"></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express"></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="SQL"></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface.svg" width="36" height="36" alt="Hugging Face"></a>
 
 <br />
 
