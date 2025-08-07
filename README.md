@@ -1,4 +1,5 @@
 ### Hi there, I'm Omar - aka SweatIRL or omar93939 👋
+(Outdated)
 
 ## Student following a Computer Engineering bachelor's programme!
 
