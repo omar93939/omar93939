@@ -14,7 +14,7 @@ So in my eyes, there was no better way to combine these two ideas (my knack for 
 I am about to enter the second year of my bachelor's programme Technical Computer Science and through my experience, it appears that I still have a large amount of time on my hands after completing all of my coursework.
 I am therefore more eager than ever to secure roles that demand use of the skills gained during my past year with my university, as well as the more extensive skills and experience I have gained during my self-studies in the same area of expertise.
 
-- ⚡ Fun fact: I love to game (my peak elo in the popular moba League Of Legends is Challenger ~800LP and was hit in 2024!)
+- ⚡ Fun fact: I love competitive gaming and reached Challenger in League of Legends in 2024!
 
 ### Connect with me:
 
